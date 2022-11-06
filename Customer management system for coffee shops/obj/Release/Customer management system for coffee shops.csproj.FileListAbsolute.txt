@@ -1,0 +1,8 @@
+C:\Users\yasingoktepe\Desktop\repos\Customer management system for coffee shops\Customer management system for coffee shops\bin\Release\Customer management system for coffee shops.exe.config
+C:\Users\yasingoktepe\Desktop\repos\Customer management system for coffee shops\Customer management system for coffee shops\bin\Release\Customer management system for coffee shops.exe
+C:\Users\yasingoktepe\Desktop\repos\Customer management system for coffee shops\Customer management system for coffee shops\bin\Release\Customer management system for coffee shops.pdb
+C:\Users\yasingoktepe\Desktop\repos\Customer management system for coffee shops\Customer management system for coffee shops\obj\Release\Customer management system for coffee shops.csproj.AssemblyReference.cache
+C:\Users\yasingoktepe\Desktop\repos\Customer management system for coffee shops\Customer management system for coffee shops\obj\Release\Customer management system for coffee shops.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasingoktepe\Desktop\repos\Customer management system for coffee shops\Customer management system for coffee shops\obj\Release\Customer management system for coffee shops.csproj.CoreCompileInputs.cache
+C:\Users\yasingoktepe\Desktop\repos\Customer management system for coffee shops\Customer management system for coffee shops\obj\Release\Customer management system for coffee shops.exe
+C:\Users\yasingoktepe\Desktop\repos\Customer management system for coffee shops\Customer management system for coffee shops\obj\Release\Customer management system for coffee shops.pdb
